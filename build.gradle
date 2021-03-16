@@ -29,18 +29,18 @@ buildscript {
 /* 
  * Dataset maven coordinates
  */
-description='The OML template project'
+description='The OML Test project'
 group = 'io.opencaesar.ontologies'
 version = '0.1.0'
 
 // Dataset-specific variables
 ext.dataset = [
 	// Name of dataset (matches one used in .fuseki.ttl file)
-	name: 'oml-template',
+	name: 'oml-test',
 	// Root ontology IRI of the dataset
-	rootOntologyIri: 'http://opencaesar.io/template/description/bundle',
+	rootOntologyIri: 'http://opencaesar.io/test/description/bundle',
 	// URL for publishing dataset documentation
-	publishUrl: 'https://opencaesar.github.io/oml-template'
+	publishUrl: 'https://opencaesar.github.io/oml-test'
 ]
 
 /*

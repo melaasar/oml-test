@@ -1,15 +1,15 @@
-# OML Template
+# OML Test
 
-[![Gitpod](https://img.shields.io/badge/gitpod-open-blue?logo=gitpod)](https://gitpod.io/#https://github.com/opencaesar/oml-template) 
-[![Build Status](https://travis-ci.org/opencaesar/oml-template.svg?branch=master)](https://travis-ci.org/opencaesar/oml-template)
-[![Documentation](https://img.shields.io/badge/Documentation-HTML-orange)](https://opencaesar.github.io/oml-template/) 
+[![Gitpod](https://img.shields.io/badge/gitpod-open-blue?logo=gitpod)](https://gitpod.io/#https://github.com/opencaesar/oml-test) 
+[![Build Status](https://travis-ci.org/opencaesar/oml-test.svg?branch=master)](https://travis-ci.org/opencaesar/oml-test)
+[![Documentation](https://img.shields.io/badge/Documentation-HTML-orange)](https://opencaesar.github.io/oml-test/) 
 
-This repository has a template [OML](https://github.com/opencaesar/oml) project. It is meant to be forked as a starting point by pressing the 'Use this template' button above.
+This repository has a test [OML](https://github.com/opencaesar/oml) project. It is meant to be forked as a starting point by pressing the 'Use this test' button above.
 
 ## Clone
 ```
-  git clone https://github.com/opencaesar/oml-template.git
-  cd oml-template
+  git clone https://github.com/opencaesar/oml-test.git
+  cd oml-test
 ```
 
 ## Build
